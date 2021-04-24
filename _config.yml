@@ -2,7 +2,7 @@ title: Your Title
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: ""
-url: "https://howilovetheearth.github.io/event-jekyll-theme"
+url: "https://youth-climate-panel.github.io"
 markdown: kramdown
 
 facebook:
