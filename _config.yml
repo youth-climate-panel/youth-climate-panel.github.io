@@ -1,7 +1,7 @@
 title: Your Title
 description: > # this means to ignore newlines until "baseurl:"
   Your description
-baseurl: ""
+baseurl: "/event-jekyll-theme"
 url: "https://howilovetheearth.github.io"
 markdown: kramdown
 
